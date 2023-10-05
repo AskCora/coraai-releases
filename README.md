@@ -1,2 +1,1 @@
-# coraai-releases
-CoraAI Releases
+# CoraAI Releases
